@@ -1,6 +1,5 @@
-# :meat_on_bone:Eatpository-Front
-홍익대학교 멋쟁이사자처럼 10기, "멋사먹자" 프로젝트의 프론트엔드 레포지토리입니다.
-  
+# :meat_on_bone:Eat-LikeLion-Hongik
+홍익대학교 멋쟁이사자처럼 10기, "멋사먹자" 프로젝트의 팀 레포지토리입니다.  
     
 멋사먹자란?
 ---
@@ -17,4 +16,5 @@
 
 기술스택
 ---
-FrontEnd : React 
+Front-End : React 
+Back-End : Django
